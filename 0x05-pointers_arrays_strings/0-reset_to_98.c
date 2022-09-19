@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchar - writes the character to stdout
+ * reset_to_98 - writes the character to stdout
  *
  * @n: character to print
  *
